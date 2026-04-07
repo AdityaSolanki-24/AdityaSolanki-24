@@ -1,16 +1,104 @@
-## Hi there 👋
+<!-- 🔥 HEADER -->
+<h1 align="center">Hi 👋, I'm Aditya Solanki</h1>
 
-<!--
-**AdityaSolanki-24/AdityaSolanki-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;Problem+Solver+🧠;Tech+Enthusiast+🚀;Future+Entrepreneur+🔥">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-solanki-47b4b6401/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:adityasolanki294@email.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=flat&logo=gmail">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- 🎓 Pursuing **Integrated MCA (iMCA)**  
+- 🏫 Chimanbhai Patel Institute, Ahmedabad  
+- 📍 Ahmedabad, Gujarat  
+- 💻 **Full Stack Developer (Frontend + Backend)**  
+- 💡 Passionate about **AI, Startups & Real-world Projects**  
+- 🧠 Strong in **Problem Solving & Logical Thinking**  
+- 🚀 Building skills to become a **Tech Entrepreneur**
+
+---
+
+## 🎓 Education
+- 🎓 **iMCA (Integrated Master of Computer Applications)**  
+  📍 Chimanbhai Patel Institute  
+  📅 2023 – 2028  
+  📊 CGPA: 6.39 / 10  
+
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🧠 Skills
+✔ Problem Solving  
+✔ Logical Thinking  
+✔ Communication  
+✔ Time Management  
+
+---
+
+## 🏆 Achievements & Activities
+- 📜 CCC Certified  
+- 🤝 Rotary Club Ahmedabad Metro  
+- 🎯 Volunteer — Spark Quest  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSolanki-24&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSolanki-24&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSolanki-24&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Quote
+> "I don’t just write code — I solve problems."
+
+---
+
+## 🎯 Goals
+- 🚀 Build impactful startup  
+- 💻 Become Full Stack Expert  
+- 🤖 Master AI & Automation  
+
+---
+
+⭐ **If you like my profile, give a star!**
