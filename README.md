@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-solanki-47b4b6401/">
+  <a href="https://www.linkedin.com/in/aditya-solanki-47b4b6401">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
   </a>
   <a href="mailto:adityasolanki294@email.com">
