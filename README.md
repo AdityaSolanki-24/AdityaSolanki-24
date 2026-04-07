@@ -74,14 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSolanki-24"/>
-</p>
-
----
-
 ## 🧠 Quote
 > "I don’t just write code — I solve problems."
 
