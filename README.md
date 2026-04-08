@@ -67,13 +67,6 @@
 
 ---
 
-## 🏆 Achievements & Activities
-- 📜 CCC Certified  
-- 🤝 Rotary Club Ahmedabad Metro  
-- 🎯 Volunteer — Spark Quest  
-
----
-
 ## 🧠 Quote
 > "I don’t just write code — I solve problems."
 
